@@ -1,0 +1,17 @@
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/prova_flutter
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/lib/liburl_launcher_linux_plugin.so
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/google.svg
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/facebook.svg
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/tulio/Aplicativos/Flutter/prova_flutter/build/linux/x64/debug/bundle/data/flutter_assets/version.json

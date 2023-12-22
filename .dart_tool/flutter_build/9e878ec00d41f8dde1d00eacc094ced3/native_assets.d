@@ -1,0 +1,1 @@
+ /home/tulio/Aplicativos/Flutter/prova_flutter/.dart_tool/flutter_build/9e878ec00d41f8dde1d00eacc094ced3/native_assets.yaml: 
